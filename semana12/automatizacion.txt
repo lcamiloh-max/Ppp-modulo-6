@@ -1,0 +1,9 @@
+Evento: nueva causa registrada en la plataforma.
+
+Acción: enviar un mensaje automático a un canal de Telegram mediante n8n.
+
+Mensaje: "Nueva causa creada en la plataforma. Revisar sistema para más detalles."
+
+Información que no debe enviarse por seguridad:
+cédulas, teléfonos, direcciones, correos electrónicos, comentarios sensibles
+o cualquier dato personal de los ciudadanos que crean o apoyan la causa.

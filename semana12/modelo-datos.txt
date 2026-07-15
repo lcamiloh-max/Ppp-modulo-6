@@ -1,0 +1,24 @@
+Entidad: Causa
+
+Campos principales:
+- id: 11111103
+- titulo: daño en tubería 
+- descripcion: en la calle 83 se rompió un tubo del acueducto 
+- fecha: 01/08/2028
+
+Propósito:
+Guardar la información de cada petición ciudadana creada en la plataforma,
+sirviendo como base para mostrarla públicamente y generar el documento PDF final.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id: 22222204
+- causa_id: 11111103
+- nombre: Sandra Pajaro 
+- fecha: 01/08/2028
+
+Propósito:
+Registrar cada apoyo individual que recibe una causa, permitiendo contar el
+total de respaldos y determinar cuándo una petición está lista para generarse en PDF.

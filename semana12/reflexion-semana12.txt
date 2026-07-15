@@ -1,0 +1,16 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy
+poderosa para fortalecer la participación ciudadana cuando se usa de forma
+organizada y responsable. Ver cómo un sistema como "Petición en 3 Clics"
+puede convertir la voluntad de varias personas en un documento formal me
+mostró que la tecnología puede simplificar procesos que antes eran lentos
+o complicados para la comunidad.
+
+También aprendí que una plataforma útil no depende solo de que el código
+funcione, sino de aplicar buenas prácticas: usar metodologías ágiles para
+priorizar el trabajo, diseñar un modelo de datos claro, proteger la
+información sensible de los usuarios y automatizar tareas repetitivas con
+herramientas como n8n y Telegram.
+
+En conclusión, este proceso me hizo entender que la tecnología, bien aplicada,
+puede acercar a los ciudadanos a sus derechos y facilitar que su voz se
+escuche de manera más rápida, ordenada y segura.
